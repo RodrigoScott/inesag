@@ -76,7 +76,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo1.png" alt=""></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo1.png" alt=""></a>
                 </div>
             </div>
 
@@ -84,13 +84,13 @@
             <div class="col-md-10 p0">
                 <div class="collapse navbar-collapse" id="min_navbar">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="index.php">Inicio</a></li>
                         
-                        <li><a href="about.html">Nosotros</a></li>
+                        <li><a href="about.php">Nosotros</a></li>
                         
-                        <li><a href="services.html">Servicios</a></li>
+                        <li><a href="services.php">Servicios</a></li>
                         
-                        <li><a href="contact.html">Contacto</a></li>
+                        <li><a href="contact.php">Contacto</a></li>
                         <li><a href="#" class="nav_searchFrom"><i class="fa fa-search"></i></a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
